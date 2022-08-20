@@ -26,15 +26,15 @@ In this module you'll get an overview of GEE Code Editor interface and you'll le
 
 You can find the presentation in the below repository ;
 
-1. [Remote Sensing Basics](https://github.com/ernest19/SNV/blob/main/training/presentations/day1/RS_Basics_Day_1.pptx)
-2. [GEE Overview](https://github.com/ernest19/SNV/blob/main/training/presentations/day1/GEE_Overview_Day_1.pptx)
-3. [GEE Basics](https://github.com/ernest19/SNV/blob/main/training/presentations/day1/GEE_Basics_Day_1.pptx)
+1. [Remote Sensing Basics](../presentations/day1/RS_Basics_Day_1.pptx)
+2. [GEE Overview](../presentations/day1/GEE_Overview_Day_1.pptx)
+3. [GEE Basics](../presentations/day1/GEE_Basics_Day_1.pptx)
 
 
 
 ## 3. Exercises 
-- Please complete the [Exercise 1](https://github.com/ernest19/SNV/blob/main/training/exercises/module1_exercise.md).
-- Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-1-exercises.md&title=Module+1+exercises+%5Breplace+with+your+name%5D)
+- Please complete the [Exercise 1](../exercises/module1_exercise.md).
+- Please submit your exercises [here](https://github.com/ernest19/UKPACT_GEE_TRAINING/issues/new?assignees=&labels=&template=submit-module-1-exercises.md&title=Module+1+exercises+%5Breplace+with+your+name%5D)
 
 
 
@@ -44,7 +44,7 @@ You can find the presentation in the below repository ;
 ## 4. Additional Resources
 
 
-- [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials/playground) to get familiar with the Code Editor environment.
+- [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials) to get familiar with the Code Editor environment.
 - For more thorough JavaScript tutorials, see [these Mozilla developer resources](https://developer.mozilla.org/en-US/docs/Web/JavaScript). 
 - For an introduction to programming, with examples in JavaScript, see [Eloquent JavaScript](http://eloquentjavascript.net/). 
 - For suggestions on JavaScript coding style, see the [Google JavaScript Style Guide](http://google.github.io/styleguide/javascriptguide.xml).

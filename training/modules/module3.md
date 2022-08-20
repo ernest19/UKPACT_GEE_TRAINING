@@ -35,7 +35,7 @@ In this section, we will explore the Hansen Global Forest Change dataset in Goog
 You can find the presentation in the below repository ;
 
 
-1. [Global Forest Change](https://github.com/ernest19/SNV/blob/main/training/presentations/day4/Global_Forest_Change.pptx)
+1. [Global Forest Change](../presentations/day2/Global_Forest_Change.pptx)
 
 
 
@@ -51,8 +51,8 @@ You can find the presentation in the below repository ;
 
 
 ## 5. Exercises 
-- Please complete the [Exercise 1 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise1.md).
-- Please complete the [Exercise 2 ](https://github.com/ernest19/SNV/blob/main/training/exercises/module3_exercise2.md).
+- Please complete the [Exercise 1 ](../exercises/module3_exercise1.md).
+- Please complete the [Exercise 2 ](../exercises/module3_exercise2.md).
 
 
 

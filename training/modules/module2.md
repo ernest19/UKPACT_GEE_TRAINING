@@ -29,7 +29,7 @@ This course will introduce you to Image/ Image Collection and Feature and Featur
 
 You can find the presentation in the below repository ;
 
-1. [Data Exploration](https://github.com/ernest19/SNV/blob/main/training/presentations/day2/Data_Exploration_Day_2_updated.pptx)
+1. [Data Exploration](../presentations/day2/Data_Exploration_Day_2_updated.pptx)
 
 
 
@@ -42,12 +42,10 @@ You can find the presentation in the below repository ;
 | 2  |Gh_District_Boundary | vector      | polygon | 
 | 3  |Gh_Regional_Boundary | vector      | polygon |  
 | 4  |Protected_Areas      | vector      | polygon | 
-| 5  |SNV_FC1              | vector      | point   | 
-| 6  |SNV_FC2              | vector      | point   | 
-| 7  |Training_AOI         | vector      | polygon |
+| 5  |Training_AOI         | vector      | polygon |
 
 ###   :pushpin: Download dataset
-Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main/training/datasets/module2/module2.zip).
+Please download all the dataset [Here](../datasets/module2/module2.zip).
 
 
 
@@ -56,11 +54,11 @@ Please download all the dataset [Here](https://github.com/ernest19/SNV/blob/main
 
 
 ## 3. Exercises 
-- Please complete the [Exercise](https://github.com/ernest19/SNV/blob/main/training/exercises/module2_exercise.md).
+- Please complete the [Exercise](../exercises/module2_exercise.md).
 
 
 
 ## 4. Additional Resources
 
-- [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials/playground) to get familiar with the Code Editor environment.
+- [The Code Editor guide ](https://developers.google.com/earth-engine/tutorials) to get familiar with the Code Editor environment.
 - For suggestions on JavaScript coding style, see the [Google JavaScript Style Guide](http://google.github.io/styleguide/javascriptguide.xml).
