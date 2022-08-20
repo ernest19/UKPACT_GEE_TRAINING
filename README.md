@@ -1,0 +1,128 @@
+# Welcome to Google Earth Engine Training 
+
+![GEE](https://img.shields.io/static/v1?label=Google&message=Earth%20Engine&color=blue)
+
+
+
+## Introduction
+
+Google Earth Engine is a cloud-based platform that enables large-scale processing of satellite imagery to detect changes, map trends, and quantify differences on the Earth’s surface. This course covers the full range of topics in Earth Engine to give the participants practical skills to master the platform and implement their remote sensing projects.
+
+
+<a href="https://www.youtube.com/watch?v=gKGOeTFHnKY">
+  <img src="img/intro/ee.png" alt="Earth Engine intro" width="800">
+</a><br>
+
+
+
+
+## Objectives
+
+The main objective is to train GIS and Remote Sensing Experts on the SCAFS project in the basics of satellite image
+processing in the [Google Earth Engine (GEE)](https://earthengine.google.com/) Environment by leveraging on the Google Earth
+high-resolution imagery and the GEE cloud-based data processing capacities for land use
+mapping, spatiotemporal analysis on forest monitoring and cartographic visualization.
+
+1. Introduce the Continuous Change Detection and Classification (CCDC) model
+2. Work through application examples
+3. Facilitate a dissemination workshop on the map outputs
+
+	
+## Sign-up for Google Earth Engine
+
+- If you already have a Google Earth Engine account, you can skip this step.
+- Kindly go through [this link](https://earthengine.google.com/noncommercial/#academic-or-educational-institution )  before you start the registration 
+- Visit https://signup.earthengine.google.com/ and sign-up with your Google account. You can use your existing gmail account to sign-up. It usually takes 1-2 days 	  for approval. Hence do this step as soon as possible.
+
+Tips to ensure smooth sign-up process:
+
+- Use Google Chrome browser.
+- When signing up for Earth Engine, please log out of all Google accounts and ensure you are logged into only 1 account which you want associated with Earth Engine.
+
+
+
+## Computer hardware and software
+> :pushpin:  Google Earth Engine runs from an internet browser. No specific software needs to be installed. For best performance the Chrome browser is recommended. Furthermore an internet connection is required, because all work is done online.
+
+
+
+## Prerequisites 
+- Fundamental understanding of basic remote sensing
+- Prior understanding of the basic concepts of programming is not required but may be helpful
+
+
+
+
+### [Workshop  - Google Earth Engine Training ]()
+
+
+#### Day 1  Introduction to Google Earth Engine (GEE)
+##### [Module 1 - Basics to Earth Engine  and Github](modules/module1.md)
+- Overview  of GEE
+- Introduction to JavaScript
+- GEE objects, strings, lists ,Arrays
+- Interaction  to GitHub   interface 
+- Hands-on exercises
+
+
+
+#### Day 2 Data exploration using GEE
+##### [Module 2 - ImageCollections and FeatureCollections ](modules/module2.md)
+- Introduction to the concept of image and feature collections in GEE
+- Filtering, reducing, mosaicking, cloud masking,clipping  and working with image collections
+- Accessing and displaying satellite imagery through the GEE Code Editor
+- Asset management (importing and exporting data)
+- Hands-on exercises
+
+
+##### [Module 3 - Exploring Spatial Indices and GEE Products](modules/module3.md)
+- Exploring spectral indices (NDVI,NDBI,LSWI,TC-G,TC-B,TC-W)
+- Forest/Deforestation monitoring with data exploration(Introduction to Global Forest Change datasets)
+- Hands-on exercise
+
+
+
+#### Day 3 Machine Learning and Image Classification
+##### [Module 4 - Machine Learning Classification Algorithms](modules/module4.md)
+- Introduction to Machine Learning  and Classification
+- Introduction to change detection
+- Supervised classification and sampling
+- Unsupervised Classification and segmentation
+- Accuracy assessment in GEE
+- Random Forest Classification for land change assessment
+- Hands-on exercise
+
+
+
+#### Day 4 Time Series and Customisation in GEE
+
+
+##### [Module 5 - Time Series](modules/module5.md)
+- Introduction to time series analysis
+- Time-Series Charts
+- Charting and creating custom UIs
+- Publishing an App in GEE
+- Hands-on exercises
+
+
+#### Day 5 Land Use Land Cover Classification
+##### [Module 6 - Land Use Land Cover Change Analysis ](modules/module6.md)
+- Land cover and land use cover change analysis
+- Create 2018 and 2020 land cover maps of the emission reduction programme area
+- Map generation  in QGIS
+- Wrap up
+
+
+
+## Project Partners
+
+We appreciate  the partners below.<br>
+
+<table style="border: 0;">
+  <tr> 
+    <td vlign="center" style="border: 0;"><img src="img/partners/ukpact.png" width="200"></td>
+    <td>   </td>
+    <!-- <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/partners/" width="125"></td> -->
+  </tr>
+</table>
+
