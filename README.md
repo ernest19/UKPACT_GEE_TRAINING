@@ -57,7 +57,7 @@ Tips to ensure smooth sign-up process:
 
 
 #### Day 1  Introduction to Google Earth Engine (GEE)
-##### [Module 1 - Basics to Earth Engine  and Github](modules/module1.md)
+##### [Module 1 - Basics to Earth Engine  and Github](training/modules/module1.md)
 - Overview  of GEE
 - Introduction to JavaScript
 - GEE objects, strings, lists ,Arrays
@@ -67,7 +67,7 @@ Tips to ensure smooth sign-up process:
 
 
 #### Day 2 Data exploration using GEE
-##### [Module 2 - ImageCollections and FeatureCollections ](modules/module2.md)
+##### [Module 2 - ImageCollections and FeatureCollections ](training/modules/module2.md)
 - Introduction to the concept of image and feature collections in GEE
 - Filtering, reducing, mosaicking, cloud masking,clipping  and working with image collections
 - Accessing and displaying satellite imagery through the GEE Code Editor
@@ -75,7 +75,7 @@ Tips to ensure smooth sign-up process:
 - Hands-on exercises
 
 
-##### [Module 3 - Exploring Spatial Indices and GEE Products](modules/module3.md)
+##### [Module 3 - Exploring Spatial Indices and GEE Products](training/modules/module3.md)
 - Exploring spectral indices (NDVI,NDBI,LSWI,TC-G,TC-B,TC-W)
 - Forest/Deforestation monitoring with data exploration(Introduction to Global Forest Change datasets)
 - Hands-on exercise
@@ -83,7 +83,7 @@ Tips to ensure smooth sign-up process:
 
 
 #### Day 3 Machine Learning and Image Classification
-##### [Module 4 - Machine Learning Classification Algorithms](modules/module4.md)
+##### [Module 4 - Machine Learning Classification Algorithms](training/modules/module4.md)
 - Introduction to Machine Learning  and Classification
 - Introduction to change detection
 - Supervised classification and sampling
@@ -97,7 +97,7 @@ Tips to ensure smooth sign-up process:
 #### Day 4 Time Series and Customisation in GEE
 
 
-##### [Module 5 - Time Series](modules/module5.md)
+##### [Module 5 - Time Series](training/modules/module5.md)
 - Introduction to time series analysis
 - Time-Series Charts
 - Charting and creating custom UIs
@@ -106,7 +106,7 @@ Tips to ensure smooth sign-up process:
 
 
 #### Day 5 Land Use Land Cover Classification
-##### [Module 6 - Land Use Land Cover Change Analysis ](modules/module6.md)
+##### [Module 6 - Land Use Land Cover Change Analysis ](training/modules/module6.md)
 - Land cover and land use cover change analysis
 - Create 2018 and 2020 land cover maps of the emission reduction programme area
 - Map generation  in QGIS
