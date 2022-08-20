@@ -18,14 +18,11 @@ Google Earth Engine is a cloud-based platform that enables large-scale processin
 
 ## Objectives
 
-The main objective is to train GIS and Remote Sensing Experts on the SCAFS project in the basics of satellite image
+The main objective is to train GIS and Remote Sensing Experts  in the basics of satellite image
 processing in the [Google Earth Engine (GEE)](https://earthengine.google.com/) Environment by leveraging on the Google Earth
 high-resolution imagery and the GEE cloud-based data processing capacities for land use
 mapping, spatiotemporal analysis on forest monitoring and cartographic visualization.
 
-1. Introduce the Continuous Change Detection and Classification (CCDC) model
-2. Work through application examples
-3. Facilitate a dissemination workshop on the map outputs
 
 	
 ## Sign-up for Google Earth Engine
@@ -83,7 +80,7 @@ Tips to ensure smooth sign-up process:
 
 
 #### Day 3 Machine Learning and Image Classification
-##### [Module 4 - Machine Learning Classification Algorithms](training/modules/module4.md)
+##### [Module 4 - Machine Learning Classification Algorithms](modules/module4.md)
 - Introduction to Machine Learning  and Classification
 - Introduction to change detection
 - Supervised classification and sampling
@@ -97,7 +94,7 @@ Tips to ensure smooth sign-up process:
 #### Day 4 Time Series and Customisation in GEE
 
 
-##### [Module 5 - Time Series](training/modules/module5.md)
+##### [Module 5 - Time Series](modules/module5.md)
 - Introduction to time series analysis
 - Time-Series Charts
 - Charting and creating custom UIs
@@ -106,7 +103,7 @@ Tips to ensure smooth sign-up process:
 
 
 #### Day 5 Land Use Land Cover Classification
-##### [Module 6 - Land Use Land Cover Change Analysis ](training/modules/module6.md)
+##### [Module 6 - Land Use Land Cover Change Analysis ]()
 - Land cover and land use cover change analysis
 - Create 2018 and 2020 land cover maps of the emission reduction programme area
 - Map generation  in QGIS
