@@ -50,9 +50,9 @@ Tips to ensure smooth sign-up process:
 
 
 
-### [Workshop  - Google Earth Engine Training ]()
+### [Workshop  - Google Earth Engine Training ](material/AGENDA_FOR_RS_TRAINING_IN_ABUJA.pdf)
 
-
+<!-- 
 #### Day 1  Introduction to Google Earth Engine (GEE)
 ##### [Module 1 - Basics to Earth Engine  and Github](training/modules/module1.md)
 - Overview  of GEE
@@ -72,42 +72,110 @@ Tips to ensure smooth sign-up process:
 - Hands-on exercises
 
 
-##### [Module 3 - Exploring Spatial Indices and GEE Products](training/modules/module3.md)
-- Exploring spectral indices (NDVI,NDBI,LSWI,TC-G,TC-B,TC-W)
-- Forest/Deforestation monitoring with data exploration(Introduction to Global Forest Change datasets)
-- Hands-on exercise
-
-
-
-#### Day 3 Machine Learning and Image Classification
-##### [Module 4 - Machine Learning Classification Algorithms](modules/module4.md)
-- Introduction to Machine Learning  and Classification
-- Introduction to change detection
-- Supervised classification and sampling
-- Unsupervised Classification and segmentation
-- Accuracy assessment in GEE
-- Random Forest Classification for land change assessment
-- Hands-on exercise
-
-
-
-#### Day 4 Time Series and Customisation in GEE
-
-
-##### [Module 5 - Time Series](modules/module5.md)
-- Introduction to time series analysis
-- Time-Series Charts
-- Charting and creating custom UIs
-- Publishing an App in GEE
+##### [Module 3 - Module 2 - ImageCollections and FeatureCollections](training/modules/module3.md)
+Lead: Ernest Opoku Kwarteng
+- Introduction to the concept of image and feature collections in GEE
+- Filtering, reducing, mosaicking, cloud masking, clipping and working with image 
+collections
+- Accessing and displaying satellite imagery through the GEE Code Editor
+- Asset management (importing and exporting data)
 - Hands-on exercises
 
 
-#### Day 5 Land Use Land Cover Classification
-##### [Module 6 - Land Use Land Cover Change Analysis ]()
-- Land cover and land use cover change analysis
-- Create 2018 and 2020 land cover maps of the emission reduction programme area
-- Map generation  in QGIS
-- Wrap up
+
+#### Day 3 Basics to R studio for Satellite Image analysis and classification
+##### [Module 4 -  Basics to R studio for Satellite Image analysis and classification](modules/module4.md)
+Lead: George Ashiagbor
+- Overview of R Studio
+- Introduction to R for image analysis
+- R objects, strings, lists, Arrays
+- Hands-on exercises
+
+
+
+##### [Module 4 -  Basics to R studio for Satellite Image analysis and classification](modules/module4.md)
+Lead: George Ashiagbor
+- Overview of R Studio
+- Introduction to R for image analysis
+- R objects, strings, lists, Arrays
+- Hands-on exercises
+
+##### [Module 5 – Random Forest Image Classification in GEE & R-studio](modules/module5.md)
+Lead: George Ashiagbor and Ernest Opoku Kwarteng
+- Introduction to Machine Learning and Classification in GEE and R
+- Supervised classification in GEE and R
+- Accuracy assessment in GEE and R
+- Map generation in QGIS
+- Hands-on exercise
+
+
+##### [Module 6 -  Classification Scheme and Training Data collection]()
+Lead: Yakubu Mohammed
+- Introduction to classification schemes
+- Harmonized classification schemes
+- Collection of training data 
+- Field protocols for training and validation data collection
+- Hands-on exercise
+
+ -->
+
+
+#### [Module 1 - Basics to Earth Engine and Github](training/modules/module1.md)
+Lead: Ernest Opoku Kwarteng
+- Overview of GEE
+- Introduction to JavaScript
+- GEE objects, strings, lists, Arrays
+- Interaction to GitHub interface
+- Hands-on exercises
+
+
+#### [Module 2 - ImageCollections and FeatureCollections](training/modules/module2.md)
+Lead: Ernest Opoku Kwarteng
+- Introduction to the concept of image and feature collections in GEE
+- Filtering, reducing, mosaicking, cloud masking, clipping and working with image 
+collections
+- Accessing and displaying satellite imagery through the GEE Code Editor
+- Asset management (importing and exporting data)
+- Hands-on exercises
+
+
+#### [Module 3 - Basics to R studio for Satellite Image analysis and classification]()
+Lead: George Ashiagbor
+- Overview of R Studio
+- Introduction to R for image analysis
+- R objects, strings, lists, Arrays
+- Hands-on exercises
+ 
+
+#### [Module 4 - Exploring Spatial Indices in GEE and R Studio]()
+Lead: George Ashiagbor and Ernest Opoku Kwarteng
+- Exploring spectral indices (NDVI, NDBI, LSWI, TC-G, TC-B, TC-W)
+- Stacking spectral indices and spectral bands
+- Hands-on exercise
+
+#### [Module 5 – Random Forest Image Classification in GEE & R-studio](training/modules/module5.md)
+Lead: George Ashiagbor and Ernest Opoku Kwarteng
+- Introduction to Machine Learning and Classification in GEE and R
+- Supervised classification in GEE and R
+- Accuracy assessment in GEE and R
+- Map generation in QGIS
+- Hands-on exercise
+
+#### [Module 6 – Classification Scheme and Training Data collection]()
+Lead: Yakubu Mohammed
+- Introduction to classification schemes
+- Harmonized classification schemes
+- Collection of training data 
+- Field protocols for training and validation data collection
+- Hands-on exercise
+
+
+
+
+
+
+
+
 
 
 

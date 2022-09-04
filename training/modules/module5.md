@@ -1,67 +1,64 @@
-# Time series and user interface customisation in google earth engine
+#  Machine Learning Classification Algorithms
 
 ## 1. What will you learn from this module?
 
-1. Customising of Graphical User Interface in  Earth Engine 
-    - Widgets
-    - Panels and Layout
-    - Events
-2. Time-Series Charts
-3. Publishing your App 
-
+1. Basic Concept in Machine Learning
+2. Introduction to unsupervised and Supervised Classification
+3. Accuracy Assessment in Google Earth Engine (GEE)
 
 
 
 
 ## 2. Course overview
 
-Earth Engine comes with a User Interface API that allows you to build an interactive web application powered by Earth Engine. Building a web mapping application typically requires the skills of a full stack developer and are out of reach for most analysts and scientists. But the Earth Engine User Interface API makes this process much more accessible by providing ready-to-use widgets, such as Buttons, Drop-down Menus, Sliders etc. - and free cloud hosting to allow anyone to publish an app with just a few lines of code.<br>
+Machine learning focuses on the development of computer programs that can access data and use it to learn for themselves. Machine learning methods or algorithms are often categorized as supervised or unsupervised. The two primary machine learning algorithms for supervised image processing are:
+-   Random forest (RF)
 
-The apps run in your browser, so they need to use client-side functions. All the user interface functions are contained in the ui. package - such as **ui.Select(), ui.Button()**. You can create those elements by calling these functions with appropriate parameters. The main container object is the ui.Panel() which can contain different types of widgets. Learn more in the Earth Engine User Interface API section of the Earth Engine User Guide.
+
+
+
+This course will introduce you to the basics concept to Machine Learning algorithm in Google Earth Engine, processing supervised  classification and determining  the accuracy of classified images in the Google Earth Environment and R.
+
+
+
 
 
 
 
 **After this module you'll be able to:**
 
-- Customise your earth engine Application
-- Publish GEE app 
-- Develop a time series App in GEE  
+- Process supervised classification in GEE an R 
+- Apply accuracy assessment algorithm on Classification images
+
 
 
 You can find the presentation in the below repository ;
 
 
-1. [GUI/Time series](https://github.com/ernest19/SNV/blob/main/training/presentations/day4/Time_series_Day_4.pptx)
+1. [Machine Learning ](../presentations/day4/Machine_Learning.pptx)
 
 
 
-## 3. Links to Courses Script  
-
-- [Select Ui](https://code.earthengine.google.com/a871aac9e49793279169c61def10d400).
-- [Event examples](https://code.earthengine.google.com/0d740d7aa55672edad9e7e10e1028a96).
-- [SplitPanel](https://code.earthengine.google.com/b05903e3effb171888873190746b10cb?noload=true).
-- [Time Series ](https://code.earthengine.google.com/a9994e895ddb05a7a1f856dbcb493d76?noload=true).
-- [Interactive NDVI Time Series App ](https://code.earthengine.google.com/9aa206008de7a8d9fb7dd06fa56d876d).
-- [Modis NDVI time series animation](https://code.earthengine.google.com/0d740d7aa55672edad9e7e10e1028a96).
+###   :pushpin: Download dataset
+Please download all the dataset [Here](../datasets/module4/datasets_module4.zip).
 
 
+## 4. Links to Courses Script  
+- [R Supervised Classification](../../materials/Remote_Sensing_Image_Classification_Training.R).
+- [GEE Supervised Classification](https://code.earthengine.google.com/8121be9d6ce7a3f55b01e5349adbce34).
 
 
 
 
 
 
-## 5. Additional Resources
+
+## 6. Additional Resources
 
 - [GEE Tutorials](https://developers.google.com/earth-engine/guides/classification) 
+- [Step by step tutorials 1](https://www.cartoscience.com/supervised-classification) 
+- [Step by step tutorials 2](https://dges.carleton.ca/CUOSGwiki/index.php/Supervised_Classifications_using_Google_Earth_Engine)
 
 
-
-
-
-###   :pushpin: Submit Exercise  <br>
-
- Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+5+exercises+%5Breplace+with+your+name%5D)
 
 

@@ -26,9 +26,9 @@ In this module you'll get an overview of GEE Code Editor interface and you'll le
 
 You can find the presentation in the below repository ;
 
-1. [Remote Sensing Basics](../presentations/day1/RS_Basics_Day_1.pptx)
-2. [GEE Overview](../presentations/day1/GEE_Overview_Day_1.pptx)
-3. [GEE Basics](../presentations/day1/GEE_Basics_Day_1.pptx)
+
+1. [GEE Overview](../presentations/day1/GEE_Overview_Day_1.pptx)
+2. [GEE Basics](../presentations/day1/GEE_Basics_Day_1.pptx)
 
 
 
