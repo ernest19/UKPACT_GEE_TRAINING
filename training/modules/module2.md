@@ -43,6 +43,8 @@ You can find the presentation in the below repository ;
 | 3  |Gh_Regional_Boundary | vector      | polygon |  
 | 4  |Protected_Areas      | vector      | polygon | 
 | 5  |Training_AOI         | vector      | polygon |
+| 6  |FC1         		   | vector      | POINT |
+| 7  |FC2         		   | vector      | POINT |
 
 ###   :pushpin: Download dataset
 Please download all the dataset [Here](../datasets/module2/module2.zip).
