@@ -24,7 +24,7 @@ This exercise covers:
 
 <table style="border: 0;">
   <tr> 
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod2_q1.JPG" width="300"></td>
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/UKPACT_GEE_TRAINING/blob/main/img/exercise/mod2_q1.JPG" width="300"></td>
   </tr>
 </table>
 
@@ -33,7 +33,7 @@ This exercise covers:
 
 ###   :pushpin: Submit Exercise 1 <br>
 
- Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises1+%5Breplace+with+your+name%5D)
+ Please submit your exercises [here](https://github.com/ernest19/UKPACT_GEE_TRAINING/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises1+%5Breplace+with+your+name%5D)
 
 
 
@@ -58,7 +58,7 @@ This exercise covers:
 
 <table style="border: 0;">
   <tr> 
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod2_q2.JPG" width="300"></td>
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/UKPACT_GEE_TRAINING/blob/main/img/exercise/mod2_q2.JPG" width="300"></td>
   </tr>
 </table>
 
@@ -67,5 +67,5 @@ This exercise covers:
 
 ###   :pushpin: Submit Exercise 2 <br>
 
- Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises2+%5Breplace+with+your+name%5D)
+ Please submit your exercises [here](https://github.com/ernest19/UKPACT_GEE_TRAINING/issues/new?assignees=&labels=&template=submit-module-2-exercises.md&title=Module+2+exercises2+%5Breplace+with+your+name%5D)
 

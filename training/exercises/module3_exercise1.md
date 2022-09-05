@@ -54,24 +54,24 @@ This exercise covers:
 
 <table style="border: 0;">  
   <tr> 
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise1.png" width="400"></td>
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/UKPACT_GEE_TRAINING/blob/main/img/exercise/mod3_exercise1.png" width="400"></td>
   </tr>
 </table>
 
 
 <table style="border: 0;">  
   <tr> 
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise11.png" width="400"><br> Natural color composite</td>
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/UKPACT_GEE_TRAINING/blob/main/img/exercise/mod3_exercise11.png" width="400"><br> Natural color composite</td>
 
-  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise12.png" width="400"><br> NDWI Output
+  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/UKPACT_GEE_TRAINING/blob/main/img/exercise/mod3_exercise12.png" width="400"><br> NDWI Output
   </td>
   </tr>
 
    <tr> 
-    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise13.png" width="400"><br> NDBI Output
+    <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/UKPACT_GEE_TRAINING/blob/main/img/exercise/mod3_exercise13.png" width="400"><br> NDBI Output
 </td>
 
-  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/SNV/blob/main/img/exercise/mod3_exercise14.png" width="400"><br>  EVI Output 
+  <td vlign="center" style="border: 0;"><img src="https://github.com/ernest19/UKPACT_GEE_TRAINING/blob/main/img/exercise/mod3_exercise14.png" width="400"><br>  EVI Output 
   </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ This exercise covers:
 
 ###   :pushpin: Submit Exercise 1 <br>
 
- Please submit your exercises [here](https://github.com/ernest19/SNV/issues/new?assignees=&labels=&template=submit-module-3-exercises.md&title=Module+3+exercises1+%5Breplace+with+your+name%5D)
+ Please submit your exercises [here](https://github.com/ernest19/UKPACT_GEE_TRAINING/issues/new?assignees=&labels=&template=submit-module-3-exercises.md&title=Module+3+exercises1+%5Breplace+with+your+name%5D)
 
 
 
