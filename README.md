@@ -50,7 +50,7 @@ Tips to ensure smooth sign-up process:
 
 
 
-### [Workshop  - Google Earth Engine Training ](material/AGENDA_FOR_RS_TRAINING_IN_ABUJA.pdf)
+### [Workshop  - Google Earth Engine Training ](materials/AGENDA_FOR_RS_TRAINING_IN_ABUJA.pdf)
 
 
 
