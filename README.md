@@ -73,7 +73,7 @@ collections
 - Hands-on exercises
 
 
-#### [Module 3 - Basics to R studio for Satellite Image analysis and classification]()
+#### [Module 3 - Basics to R studio for Satellite Image analysis and classification](training/modules/module3.md)
 Lead: George Ashiagbor
 - Overview of R Studio
 - Introduction to R for image analysis
